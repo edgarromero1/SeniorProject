@@ -23,7 +23,6 @@ header video {
 }
 
 header .container {
-  position: relative;
   z-index: 2;
 }
 
