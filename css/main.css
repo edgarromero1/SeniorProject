@@ -45,6 +45,14 @@ q:before, q:after {
 
 
 /****** Main ********/
+
+#logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+
 .mytable>tbody>tr>td, .mytable>tbody>tr>th, .mytable>tfoot>tr>td, .mytable>tfoot>tr>th, .mytable>thead>tr>td, .mytable>thead>tr>th {
 	font-size: 20px;
     padding: 50px;
