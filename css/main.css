@@ -47,7 +47,7 @@ q:before, q:after {
 /****** Main ********/
 .mytable>tbody>tr>td, .mytable>tbody>tr>th, .mytable>tfoot>tr>td, .mytable>tfoot>tr>th, .mytable>thead>tr>td, .mytable>thead>tr>th {
 	font-size: 20px;
-    padding: 80px;
+    padding: 50px;
 }
 
 video {
@@ -92,6 +92,14 @@ h2 + p {
 	top: 47%;
 	transform: translateY(-47%);
 }
+.vertical-centertable {
+	text-align: left;
+	width: 1%;
+	position: relative;
+	top: 45%;
+	transform: translateY(-47%);
+	size: auto;
+}
 .vertical-center p {
 	margin-top:23px;
 }
@@ -106,9 +114,9 @@ h2 + p {
 
 .innertable{
 	position: relative;
-	height:100%;
+	height:90%;
 
-	width:85%;
+	width:100%;
 	margin:0 auto;
 }
 
