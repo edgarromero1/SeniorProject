@@ -43,19 +43,17 @@ q:before, q:after {
 	content: none;
 }
 
-
-/****** Main ********/
-
 #logo {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
-  }
+}
 
+/****** Main ********/
 .mytable>tbody>tr>td, .mytable>tbody>tr>th, .mytable>tfoot>tr>td, .mytable>tfoot>tr>th, .mytable>thead>tr>td, .mytable>thead>tr>th {
 	font-size: 20px;
-    padding: 50px;
+    padding: 30px;
 }
 
 video {
@@ -122,7 +120,7 @@ h2 + p {
 
 .innertable{
 	position: relative;
-	height:90%;
+	height:10px;
 
 	width:100%;
 	margin:0 auto;
